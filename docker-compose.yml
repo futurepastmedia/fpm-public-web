@@ -1,0 +1,21 @@
+services:
+  new:
+    image: jekyll/jekyll:latest
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    command: jekyll new . --force
+  build:
+    image: jekyll/jekyll:latest
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    command: jekyll build --trace
+  serve:
+    image: jekyll/jekyll:4.2.0 # Use a specific version for webrick
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    ports:
+      - "80:4000"
+    command: jekyll serve --no-watch --force_polling --trace
