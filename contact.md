@@ -1,16 +1,18 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: Start your media conversion project
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Tell me what media you have and I will help you map out the next step.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Please include the media types (for example VHS, photos, slides, cassette), rough quantity, and any deadlines.
+
+## Drop-Off Or Shipping
+
+- Local drop-off can be arranged by appointment.
+- Shipping is welcome; pack media securely and include your contact details in the box.
+
+## Response Timing
+
+I reply to most inquiries within 1 business day with an initial estimate and recommended workflow.

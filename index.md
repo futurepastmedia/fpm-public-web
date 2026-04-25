@@ -1,13 +1,15 @@
 ---
-title: Jekyll Serif Theme
+title: Future Past Media
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Professional media digitization for family archives and legacy collections.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Preserve The Moments You Cannot Reshoot.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+I help families convert aging tapes, photos, slides, and audio into digital files that are easy to watch, share, and keep safe.
+
+Every box of memories is handled by one person from start to finish. No factory line, no confusion about where your originals are, and no one-size-fits-all process.

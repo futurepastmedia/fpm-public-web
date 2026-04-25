@@ -1,12 +1,14 @@
 ---
 title: Services
 layout: services
-description: Services
+description: Media conversion services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Media Conversion Services
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Choose the service that matches your collection, or reach out and I can recommend the best path.
+
+Every project follows the same simple workflow: review your media, confirm delivery format, convert with care, then share digitally with confidence.
