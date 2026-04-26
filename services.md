@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: Media conversion services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/biris-bianca-96QKob2udaE-unsplash.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

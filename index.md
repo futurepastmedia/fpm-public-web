@@ -2,7 +2,7 @@
 title: Future Past Media
 layout: home
 description: Professional media digitization for family archives and legacy collections.
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/tuyen-vo-aHT32vF7OTo-unsplash.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
