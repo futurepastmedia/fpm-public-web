@@ -1,13 +1,13 @@
 ---
 title: About
 layout: page
-description: About Future Past Media
+description: About Future Past Media and its media digitization services for Edmonton and surrounding communities
 bodyClass: page-about
 ---
 
 Future Past Media started with a simple problem: priceless memories were trapped on formats that were fading every year.
 
-I am a solo specialist focused on careful, practical media conversion for families and small personal archives. From intake to delivery, your project is handled by one person with one clear process.
+I am a solo specialist focused on careful, practical media conversion for families and small personal archives across the greater Edmonton area. From intake to delivery, your project is handled by one person with one clear process.
 
 ## Why This Work Matters
 
