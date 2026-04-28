@@ -1,4 +1,5 @@
-baseurl: '/'
+url: 'https://futurepastmedia.ca'
+baseurl: ''
 permalink: pretty
 title: 'Future Past Media'
 
